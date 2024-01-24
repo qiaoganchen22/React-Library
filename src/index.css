@@ -1,0 +1,60 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+#logo-image {
+  width: 30px;
+  margin-right: 10px;
+}
+
+/* Add your own custom styles here */
+
+.image {
+  width: 200px;
+  height: 200px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 15%;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  margin: 1%;
+  display: grid;
+  justify-items: center;
+  text-align: center;
+}
+
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 5px;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.singleImage{
+  width: 500px;
+  height: 500px;
+}
+
+.singleCard{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 60%;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  margin: auto;
+  display: grid;
+  justify-items: center;
+  text-align: center;
+}
+.singleP{
+  width: 500px;
+  height: 500px;
+}
