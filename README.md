@@ -1,4 +1,4 @@
-# Block 30 - Book Buddy
+# React Library
 
 ## Introduction
 
